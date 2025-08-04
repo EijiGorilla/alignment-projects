@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalignment_projects=self.webpackChunkalignment_projects||[]).push([[72713],{72713:(e,s,n)=>{n.r(s),n.d(s,{build:()=>t.b});n(73398),n(86955),n(70367),n(2687);var t=n(21199)}}]);
